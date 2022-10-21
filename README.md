@@ -7,6 +7,7 @@
   📫 
 - 📫 How to reach me ashwinnair847@gmai.com
    
+<img src="https://github-readme-stats.vercel.app/api?username=Ashwin145&show_icons=true&locale=en&theme=radical&hide_border=true">
 
 <!---
 Ashwin145/Ashwin145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
