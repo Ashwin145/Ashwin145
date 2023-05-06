@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![ashwin7942's GitHub | Stats](https://stats.quine.sh/ashwin7942/github?theme=dark)](https://quine.sh)
+[![ashwin7942's GitHub | Topics Over Time](https://stats.quine.sh/ashwin7942/topics-over-time?theme=dark)](https://quine.sh)
