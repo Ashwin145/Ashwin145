@@ -21,4 +21,3 @@ You can click the Preview link to take a look at your changes.
 [![ashwin7942's GitHub | Topics Over Time](https://stats.quine.sh/ashwin7942/topics-over-time?theme=dark)](https://quine.sh)
 [![ashwin7942's GitHub | Languages Over Time](https://stats.quine.sh/ashwin7942/languages-over-time?theme=dark)](https://quine.sh)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
