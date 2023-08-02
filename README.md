@@ -9,8 +9,8 @@
    <h3 align="left">Languages and Tools:</h3>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-![image](https://github.com/Ashwin145/Ashwin145/assets/89822123/90e693b4-d8ce-4491-b1bf-0546926b18cb)
-![image](https://github.com/Ashwin145/Ashwin145/assets/89822123/3ce3c66b-3b7e-441f-a079-2df45efae620)
+<img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/90e693b4-d8ce-4491-b1bf-0546926b18cb" alt="java" width="40" height = "40"/>
+<img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/3ce3c66b-3b7e-441f-a079-2df45efae620" alt ="html" width ="40" height ="40"/>
 
 
 <!---
