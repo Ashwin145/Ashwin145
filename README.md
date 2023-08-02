@@ -21,12 +21,12 @@
   
   
   
-  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/9f40e677-e76d-47cd-94f9-cf4252f5d572" alt="Vs code" width="20" height="40"/> 
+  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/9f40e677-e76d-47cd-94f9-cf4252f5d572" alt="Vs code" width="50" height="40"/> 
   
   
   
   
-  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/68b23a55-1aba-48d7-b2a1-653aa9af9fe2" alt="Android Studio" width="20" height="40"/>  
+  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/68b23a55-1aba-48d7-b2a1-653aa9af9fe2" alt="Android Studio" width="50" height="40"/>  
 
 </div>
 
