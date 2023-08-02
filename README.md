@@ -7,23 +7,6 @@
 - 📫 How to reach me ashwinnair847@gmai.com
    
    <h3 align="center">Languages and Tools:</h3>
-
-<style>
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .image-container img {
-    margin-right: 10px;
-  }
-
-  /* Remove margin-right for the last image to avoid extra space */
-  .image-container img:last-child {
-    margin-right: 0;
-  }
-</style>
-
 <div class="image-container">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/90e693b4-d8ce-4491-b1bf-0546926b18cb" alt="java" width="40" height="40"/>
