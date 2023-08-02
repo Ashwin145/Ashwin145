@@ -13,6 +13,8 @@
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/3ce3c66b-3b7e-441f-a079-2df45efae620" alt="html" width="40" height="40"/>
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/49980136-c859-4426-aeea-f071524f6240" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/c72ebe21-57f3-46f1-9b12-7511695e50ac" alt="javascript" width="40" height="40"/>
+
+  
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/7cf09d8b-7479-4a75-a786-c48e651814da" alt="kotlin" width="40" height="40"/>
   
   
@@ -21,12 +23,12 @@
   
   
   
-  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/9f40e677-e76d-47cd-94f9-cf4252f5d572" alt="Vs code" width="50" height="40"/> 
+  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/9f40e677-e76d-47cd-94f9-cf4252f5d572" alt="Vs code" width="40" height="40"/> 
   
   
   
   
-  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/68b23a55-1aba-48d7-b2a1-653aa9af9fe2" alt="Android Studio" width="50" height="40"/>  
+  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/68b23a55-1aba-48d7-b2a1-653aa9af9fe2" alt="Android Studio" width="40" height="40"/>  
 
 </div>
 
