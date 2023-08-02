@@ -17,6 +17,11 @@
   .image-container img {
     margin-right: 10px;
   }
+
+  /* Remove margin-right for the last image to avoid extra space */
+  .image-container img:last-child {
+    margin-right: 0;
+  }
 </style>
 
 <div class="image-container">
@@ -28,6 +33,7 @@
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/7cf09d8b-7479-4a75-a786-c48e651814da" alt="kotlin" width="40" height="40"/>
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/0bdf3c7f-531d-4992-90a8-2859186c5d28" alt="C++" width="40" height="40"/>
 </div>
+
 
 
 
