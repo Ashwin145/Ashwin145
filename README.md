@@ -16,7 +16,7 @@
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/7cf09d8b-7479-4a75-a786-c48e651814da" alt="kotlin" width="40" height="40"/>
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/0bdf3c7f-531d-4992-90a8-2859186c5d28" alt="C++" width="40" height="40"/>
   <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/9f40e677-e76d-47cd-94f9-cf4252f5d572" alt="Vs code" width="40" height="40"/> 
-  <img src="(https://github.com/Ashwin145/Ashwin145/assets/89822123/68b23a55-1aba-48d7-b2a1-653aa9af9fe2" alt="Android Studio" width="40" height="40"/>  
+  <img src="https://github.com/Ashwin145/Ashwin145/assets/89822123/68b23a55-1aba-48d7-b2a1-653aa9af9fe2" alt="Android Studio" width="40" height="40"/>  
 
 </div>
 
